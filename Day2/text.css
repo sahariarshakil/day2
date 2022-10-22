@@ -1,0 +1,16 @@
+.header{
+    width: 1200px;
+    height: 100px;
+    background: aqua;
+    margin: auto;
+}
+.logo{
+    float: left;
+}
+.logo img{
+    width: 20px;
+    height: 50px;
+}
+/* .manu{
+    float: right;
+} */

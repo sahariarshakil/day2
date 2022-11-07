@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: url(./assets/images/bg_main.gif)center center;
+}
+/* topbar part start */
+.cont{
+    max-width: 996px;
+    margin: 0 auto;
+}
+.topbar{
+    background-color: #9E5BBA;
+    height: 30px;
+    color: #fff;
+    font-size: 14px;
+    line-height: 30px;
+}
+.topbar_right a{
+    text-decoration: none;
+    color: #fff;
+}
+/* topbar part end */
+
+/* logo part start */
+.logo{
+    height: 110px;
+}
+.logo_left{
+    line-height: 110px;
+}
+.logo_search{
+    padding-top: 45px;
+}
+.logo_right{
+    padding-top: 30px;
+}
+.logo_right_2 p{
+    
+    position: relative;
+    top: 15%;
+}
+.logo_right_1{
+    border-right: 1px solid black;
+    padding-right: 7px;
+    margin-right: 7px;
+   
+}
+.menu_main ul li a:hover{
+    background-color: aqua;
+  
+}
+.menu_main ul li a{
+    border-right: 1px solid black;
+}
+/* logo part end */
+/* hero part start */
+.banner img{
+    border: 2px solid red;
+    padding: 10px;
+}
+/* hero part end */
